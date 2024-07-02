@@ -1,4 +1,4 @@
-# SQL Online Retail Sales Data Analysis Project
+# SQL Online Retail Sales Project
 
 <img src="https://github.com/davarques/SQL-Retail-Sales-Analysis/assets/160759223/c9f3d428-fc9d-4290-bbeb-713a3a788db9" alt="Telco Customer Churn" width="800">
 
