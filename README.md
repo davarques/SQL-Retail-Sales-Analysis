@@ -76,7 +76,7 @@ This project consists of four tables.: `Sales`, `Customers`, `Suppliers`, `Produ
 
 `Top Suppliers`
 
-<img src="https://github.com/davarques/SQL-Retail-Sales-Analysis/assets/160759223/8c2496f6-8da7-4157-9538-aa3291c5803f" width="400">
+<img src="https://github.com/davarques/SQL-Retail-Sales-Analysis/assets/160759223/8c2496f6-8da7-4157-9538-aa3291c5803f" width="320">
 
 ---
 
