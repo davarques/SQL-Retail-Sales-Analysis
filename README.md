@@ -89,7 +89,7 @@ This project consists of four tables.: `Sales`, `Customers`, `Suppliers`, `Produ
 
 #### Customer Analysis:
 - **Gender Distribution**: Sales distribution is 50/50 between genders.
-- **Profitable Customer Demographics**: The most profitable customers (3-5 purchases) are aged between 28-40 years old.
+- **Profitable Customer Demographics**: Profitable customers (3-5 purchases) are aged between 28-40 years old.
 
 
 
